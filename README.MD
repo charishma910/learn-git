@@ -11,3 +11,6 @@ Developer pushes dos lot of changes and pushes lot of times.
 Rebase is another merging Stratergy.
 Developing still.
 Developing Completed.
+
+## squash
+started develpment

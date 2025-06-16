@@ -3,4 +3,4 @@ This is the the first commit from main branch
 
 
 ### feature-1
-Developer is doing some development 
+Developer is doing some development continuosly
